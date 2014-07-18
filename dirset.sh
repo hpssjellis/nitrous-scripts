@@ -1,1 +1,1 @@
-chmod -R 775 scripts
+chmod -R 700 scripts
