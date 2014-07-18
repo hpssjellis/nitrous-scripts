@@ -1,1 +1,5 @@
-#show this line
+#!/bin/bash         
+
+echo "Hello, World"
+
+pwd
