@@ -1,4 +1,4 @@
 nitrous-scripts
 ===============
 
-bask scripts test for nitrous
+basic scripts test for nitrous
