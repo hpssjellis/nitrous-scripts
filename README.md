@@ -5,6 +5,8 @@ Advanced scripts for nitrous.io
 
 You should know a bit of linux commands such as:
 
+pwd  (shows where you are)
+
 cd .. (moves up a directory)
 
 cd folderName (moves into the directory)
