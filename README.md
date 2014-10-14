@@ -17,5 +17,7 @@ ls -la   (shows all files and attributes including hidden files)
 
 ./myBashFile.sh   (activates the file)
 
+These scripts should be in the correct folder when you activate them. Good idea to drag them into the main folder for your repository.
+
 
 
